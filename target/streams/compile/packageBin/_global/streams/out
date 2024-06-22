@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /private/var/folders/1d/_0pnt2994vg5xvvvj4fk41qr0000gp/T/sparkmandatorytask2part2/target/scala-2.12/sparkmandatorytask2part2_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkDeSerialize$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /private/var/folders/1d/_0pnt2994vg5xvvvj4fk41qr0000gp/T/sparkmandatorytask2part2/target/scala-2.12/classes/SparkDeSerialize$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkDeSerialize.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /private/var/folders/1d/_0pnt2994vg5xvvvj4fk41qr0000gp/T/sparkmandatorytask2part2/target/scala-2.12/classes/SparkDeSerialize.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkProcesses$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /private/var/folders/1d/_0pnt2994vg5xvvvj4fk41qr0000gp/T/sparkmandatorytask2part2/target/scala-2.12/classes/SparkProcesses$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkSerialize.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /private/var/folders/1d/_0pnt2994vg5xvvvj4fk41qr0000gp/T/sparkmandatorytask2part2/target/scala-2.12/classes/SparkSerialize.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkSerialize$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /private/var/folders/1d/_0pnt2994vg5xvvvj4fk41qr0000gp/T/sparkmandatorytask2part2/target/scala-2.12/classes/SparkSerialize$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkProcesses.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /private/var/folders/1d/_0pnt2994vg5xvvvj4fk41qr0000gp/T/sparkmandatorytask2part2/target/scala-2.12/classes/SparkProcesses.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	metricMessage[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /private/var/folders/1d/_0pnt2994vg5xvvvj4fk41qr0000gp/T/sparkmandatorytask2part2/target/scala-2.12/classes/metricMessage[0m
+[0m[[0m[0mdebug[0m] [0m[0m	metricMessage/MetricOuterClass$Metric.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /private/var/folders/1d/_0pnt2994vg5xvvvj4fk41qr0000gp/T/sparkmandatorytask2part2/target/scala-2.12/classes/metricMessage/MetricOuterClass$Metric.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	metricMessage/MetricOuterClass$Metric$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /private/var/folders/1d/_0pnt2994vg5xvvvj4fk41qr0000gp/T/sparkmandatorytask2part2/target/scala-2.12/classes/metricMessage/MetricOuterClass$Metric$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	metricMessage/MetricOuterClass$Metric$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /private/var/folders/1d/_0pnt2994vg5xvvvj4fk41qr0000gp/T/sparkmandatorytask2part2/target/scala-2.12/classes/metricMessage/MetricOuterClass$Metric$Builder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	metricMessage/MetricOuterClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /private/var/folders/1d/_0pnt2994vg5xvvvj4fk41qr0000gp/T/sparkmandatorytask2part2/target/scala-2.12/classes/metricMessage/MetricOuterClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	metricMessage/MetricOuterClass$MetricOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /private/var/folders/1d/_0pnt2994vg5xvvvj4fk41qr0000gp/T/sparkmandatorytask2part2/target/scala-2.12/classes/metricMessage/MetricOuterClass$MetricOrBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
